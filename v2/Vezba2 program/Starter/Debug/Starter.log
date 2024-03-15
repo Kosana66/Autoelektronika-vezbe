@@ -1,0 +1,4 @@
+﻿  main_application.c
+D:\autoelek\v2\v2\Vezba2 program\Starter\main_application.c(59,30): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\autoelek\v2\v2\Vezba2 program\Starter\main_application.c(60,30): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  Starter.vcxproj -> D:\autoelek\v2\v2\Vezba2 program\Debug\Starter.exe
