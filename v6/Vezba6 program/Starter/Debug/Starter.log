@@ -1,0 +1,3 @@
+﻿  main_application.c
+C:\Users\Sladja\Desktop\AUTOELEKTRONIKA\Autoelektronika-vezbe\v6\Vezba6 program\Starter\main_application.c(83,10): warning C4013: 'printf' undefined; assuming extern returning int
+  Starter.vcxproj -> C:\Users\Sladja\Desktop\AUTOELEKTRONIKA\Autoelektronika-vezbe\v6\Vezba6 program\Debug\Starter.exe
